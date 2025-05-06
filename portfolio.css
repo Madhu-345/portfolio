@@ -17,7 +17,7 @@
     margin: auto;
     padding: 0 20px;
   }
-  
+   
   
   .header {
     background: white;
@@ -176,7 +176,7 @@
 }
   
 
-  .fresher {
+  /* .fresher {
     padding: 60px 20px;
     text-align: center;
   
@@ -193,7 +193,7 @@
     max-width: 800px;
     margin: auto;
   }
-}
+} */
   
   
   .contact {
